@@ -1,3 +1,16 @@
 DOMAIN,aistudio.google.com
 DOMAIN,ai.studio
 geosite:google-gemini
+DOMAIN,ai.google.dev,Gemini
+DOMAIN,alkalimakersuite-pa.clients6.google.com,Gemini
+DOMAIN,makersuite.google.com,Gemini
+HOST-SUFFIX,bard.google.com,Gemini
+HOST-SUFFIX,deepmind.com,Gemini
+HOST-SUFFIX,deepmind.google,Gemini
+HOST-SUFFIX,gemini.google.com,Gemini
+HOST-SUFFIX,generativeai.google,Gemini
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+HOST-SUFFIX,apis.google.com,Gemini
+HOST-KEYWORD,colab,Gemini
+HOST-KEYWORD,developerprofiles,Gemini
+HOST-KEYWORD,generativelanguage,Gemini
